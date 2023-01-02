@@ -26,7 +26,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring new technologies.
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=gmail&logoColor=white)](imvsoni24@gmail.com)
+- :mailbox:How to reach me: [![Whatsapp Badge](https://img.shields.io/badge/-whatsapp-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/6386315908)
 
 ---
 
