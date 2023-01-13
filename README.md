@@ -14,14 +14,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <div>
+  <h3>
     I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 I’m building frontend and backend web applications.
 
 Exploring new technologies.
 
 How to reach me: [![Whatsapp Badge](https://img.shields.io/badge/-whatsapp-tealgreen?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/6386315908)
-  </div>
+  </h3>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
