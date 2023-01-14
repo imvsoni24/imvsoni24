@@ -1,9 +1,12 @@
 <h1 align="center">
   There is always time, You just have to find
 </h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
-</div>
+
+<h2> Hi, I'm Vivek Soni! </h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Becoming a Full Stack Web Developer</br>
+</em></p>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/vivek-soni-1269a2210/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,21 +15,34 @@
 <div id="header" align="center">
     <img  src="https://komarev.com/ghpvc/?username=imvsoni24&style=flat-square&color=blue" alt=""/>
 </div>
-<h1 align="center">
-  hey there I'm Vivek Soni
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center">
-  <h3>
-    I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-I’m building frontend and backend web applications.
 
-Exploring new technologies.
+###  A little more about me...  
 
-How to reach me: [![Whatsapp Badge](https://img.shields.io/badge/-whatsapp-tealgreen?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/6386315908)
-  </h3>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+```javascript
+const Vivek = {
+  pronouns: "he" | "him",
+  technologies: {
+      frontEnd: {
+         js: ["React","Typescript],
+         css: ["Chakra UI", "Tailwind css", "Bootstrap"],
+         misc: ["Next js", "Redux", "Storybook"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+      },
+      databases: ["MongoDB"],
+   },
+   currentOccupation: ["open for job opportunities"],
+   challenge: "I'm working towards being able to run a marathon.",
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
+
+⭐️ From [@imvsoni24](https://github.com/imvsoni24)
+
 
 ---
 
