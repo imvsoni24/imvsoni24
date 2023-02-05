@@ -41,9 +41,6 @@ const Vivek = {
 
 ---
 
-⭐️ From [@imvsoni24](https://github.com/imvsoni24)
-
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
