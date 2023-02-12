@@ -23,7 +23,7 @@ const Vivek = {
   pronouns: "he" | "him",
   technologies: {
       frontEnd: {
-         js: ["React","Typescript],
+         js: ["React"],
          css: ["Chakra UI", "Tailwind css", "Bootstrap"],
          misc: ["Next js", "Redux", "Storybook"]
       },
