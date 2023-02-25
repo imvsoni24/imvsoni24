@@ -18,24 +18,13 @@
 
 ###  A little more about me...  
 
-```javascript
-const Vivek = {
-  pronouns: "he" | "him",
-  technologies: {
-      frontEnd: {
-         js: ["React"],
-         css: ["Chakra UI", "Tailwind css", "Bootstrap"],
-         misc: ["Next js", "Redux", "Storybook"]
-      },
-      backEnd: {
-         js: ["Node", "Express"],
-      },
-      databases: ["MongoDB"],
-   },
-   currentOccupation: ["open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
-}
-```
+- :telescope: I’m working on contributing to frontend and backend for building web applications.
+
+- :seedling: Learning new technologies.
+
+- :zap: I'm working towards being able to run a marathon
+
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
