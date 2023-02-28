@@ -1,13 +1,6 @@
 <h1 align="center">
   There is always time, You just have to find.
-</h1>
-
-<h2> Hi, I'm Vivek Soni!! </h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Becoming a Full Stack Web Developer</br>
-</em></p>
-
-<div id="badges" align="center">
+  <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/vivek-soni-1269a2210/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -15,14 +8,26 @@
 <div id="header" align="center">
     <img  src="https://komarev.com/ghpvc/?username=imvsoni24&style=flat-square&color=blue" alt=""/>
 </div>
+</h1>
+
+<h2> Hi, I'm Vivek Soni!! </h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h4>I am a full-stack web developer and I'm passionate about coding, and I like to make things perfect so interested in time travel.</br>
+</h4>
+
 
 ###  A little more about me...  
+- :telescope: I’ve completed my graduation.
 
 - :telescope: I’m working on contributing to frontend and backend for building web applications.
 
 - :seedling: Learning new technologies.
 
+- 💬 ask me for anything, i never say no 
+
 - :zap: I'm working towards being able to run a marathon
+
+- ⚡ Fun Fact: Overthinking is my best friend
 
 
 
