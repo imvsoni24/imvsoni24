@@ -12,7 +12,7 @@
 
 <h2> Hi, I'm Vivek Soni!! </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<h4>I am a full-stack web developer and I'm passionate about coding, and I like to make things perfect so interested in time travel.</br>
+<h4>I am a full-stack web developer and I'm passionate about coding, and I like to make things perfect.Interested in time travel.</br>
 </h4>
 
 
